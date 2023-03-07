@@ -1,0 +1,1 @@
+var scrollSpy;alert("ok"),scrollSpy={};
